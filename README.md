@@ -1,7 +1,7 @@
 # HomeGPT-Chatbot
 *By Bamboothesecond
 
-*This is a Python program for a Chatbot GUI created using the OpenAI's engine which is davinci-003. It allows users to input messages and receive responses from the Chatbot in a Graphical User Interface (GUI) format.
+*This is a Python program for a Chatbot GUI created using the OpenAI's latest engine which is davinci-003. It allows users to input messages and receive responses from the Chatbot in a Graphical User Interface (GUI) format.
 
 The program creates a window using tkinter and sets its dimensions, background color, and icon. The Chatbot GUI is made up of a chat history display area, message input area with scrollbar, and a send button. The program also allows users to press Enter or Shift + Enter to send messages.
 
