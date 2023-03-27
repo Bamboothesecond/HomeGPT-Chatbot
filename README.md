@@ -10,3 +10,5 @@ The Chatbot GUI has three functions to add messages to the GUI for the user, the
 The send_message() function takes the user input, adds it to the chat history display area, builds a prompt using previous messages, and generates a response using the OpenAI's davinci-003 engine. Finally, it adds the Chatbot response to the chat history display area.
 
 Overall, this program is a basic implementation of a Chatbot GUI using OpenAI's davinci-003 engine.
+
+*Process for installation: install the package inside the program and you're good to go.
