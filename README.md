@@ -11,4 +11,4 @@ The send_message() function takes the user input, adds it to the chat history di
 
 Overall, this program is a basic implementation of a Chatbot GUI using OpenAI's davinci-003 engine.
 
-*Process for installation: install the package inside the program and you're good to go.
+-Process for installation: install the package inside the program and you're good to go.
